@@ -19,7 +19,7 @@
 set -e
 
 # Required!
-export DEVICE=fortuna3g
+export DEVICE=fortuna3gdtv
 export DEVICE_COMMON=gprimelte-common
 export VENDOR=samsung
 

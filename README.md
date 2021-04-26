@@ -1,6 +1,6 @@
-# android_device_samsung_fortuna3g
+# android_device_samsung_fortuna3gdtv
 
-## Device tree for Samsung Galaxy Grand Prime 3G
+## Device tree for Samsung Galaxy Grand Prime 3G (Brazilian Variant w/ DTV)
 
 Basic   | Spec Sheet
 -------:|:-------------------------

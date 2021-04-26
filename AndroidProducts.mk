@@ -1,9 +1,9 @@
-LOCAL_PATH := device/samsung/fortuna3g
+LOCAL_PATH := device/samsung/fortuna3gdtv
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_fortuna3g.mk
+	$(LOCAL_DIR)/lineage_fortuna3gdtv.mk
 
 COMMON_LUNCH_CHOICES := \
-	lineage_fortuna3g-eng \
-	lineage_fortuna3g-userdebug \
-	lineage_fortuna3g-user
+	lineage_fortuna3gdtv-eng \
+	lineage_fortuna3gdtv-userdebug \
+	lineage_fortuna3gdtv-user
 
